@@ -22,9 +22,10 @@ Prime number list
                 if (n % i == 0) {
                     return false;
                 }
-                return true;
             }
-            return false;
+                return true;
+            
+           
         }
 
     }
