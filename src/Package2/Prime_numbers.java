@@ -36,12 +36,12 @@ public class Prime_numbers {
 
                     return false;
                 }  // otherwise return the value as true
-
+            }
                 return true;
 
 
-            }
-            return false;
+       
+          
         }
     }
 
