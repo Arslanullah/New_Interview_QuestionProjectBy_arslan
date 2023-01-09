@@ -23,10 +23,11 @@ public class primeNumber3 {
                 if (number%i==0){
                     return false;
                 }
-                return true;
             }
+                return true;
+          
 
-            return false;
+     
         }
     }
 
